@@ -1,0 +1,17 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: rgb(69, 16, 16);
+    background:rgb(205, 145, 233);
+    margin: 20px;
+}
+h1{ 
+    font-size: xx-large;
+    color: rgb(25, 97, 230);
+}
+h2{ 
+    color: rgb(21, 0, 11);
+}
+p1 {color: brown;}
+p3 {color: brown;}
+p5 {color: brown;}
+p { font-family: Verdana, Geneva, Tahoma, sans-serif;}
